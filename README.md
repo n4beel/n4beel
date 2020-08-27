@@ -1,4 +1,6 @@
 ### Hi there 👋
+#### I am Nabeel Ahmed Khan, a MERN Stack Engineer working at Xehen.ai, I am currently doing my Software Engineering from University of Karachi
+#### How to reach me: nabeel-a-khan@outlook.com
 
 <!--
 **n4beel/n4beel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
