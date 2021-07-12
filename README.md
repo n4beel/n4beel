@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am Nabeel Ahmed Khan, a MERN Stack Engineer, I am currently doing my Software Engineering from University of Karachi
+#### I am Nabeel Ahmed Khan, a MERN Stack Engineer.
 #### How to reach me: nabeel@tezeract.ai
 
 <!--
