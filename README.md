@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I am Nabeel Ahmed Khan, a MERN Stack Engineer.
-#### How to reach me: nabeel@tezeract.ai
+#### How to reach me: nabeelahmed@xord.com
 
 <!--
 **n4beel/n4beel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
