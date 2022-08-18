@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am Nabeel Ahmed Khan, a MERN Stack Engineer.
+#### I am Nabeel Ahmed Khan, a Web3 Engineer.
 #### How to reach me: nabeelahmed@xord.com
 
 <!--
