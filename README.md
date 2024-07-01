@@ -1,6 +1,6 @@
 ### Hi there 👋
-#### I am Nabeel Ahmed Khan, a Web3 Engineer.
-#### How to reach me: nabeelahmed@xord.com
+#### I am Nabeel Ahmed Khan, a Software Engineer, working with backends and blockchain.
+#### How to reach me: nabeel@blockapex.io
 
 <!--
 **n4beel/n4beel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
