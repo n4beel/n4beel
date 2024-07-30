@@ -2,6 +2,8 @@
 #### I am Nabeel Ahmed Khan, a Software Engineer, working with backends and blockchain.
 #### How to reach me: nabeel@blockapex.io
 
+[![roadmap.sh](https://roadmap.sh/card/wide/66a8d74ce886d0166c50f893?variant=dark&roadmaps=backend%2Csoftware-architect%2Cdevrel%2Cblockchain)](https://roadmap.sh)
+
 <!--
 **n4beel/n4beel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
