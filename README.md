@@ -1,1 +1,8 @@
-👋 Hey there! I’m Nabeel Ahmed Khan, a Backend Engineer passionate about blockchain technology and high-performance system architectures. With expertise in Node.js, NestJS, and Go, I specialize in building scalable, secure, and optimized backend systems for Web3 applications. From smart contract integrations to tokenomics implementation, I thrive on solving complex problems in the decentralized world. Let’s build the future of blockchain together! 🚀
+👋 Hey there! I'm Nabeel Ahmed Khan, a Backend + Blockchain Engineer building the decentralized future. 
+
+💻 Tech stack: NestJS, Go, Rust, Anchor and scaling systems that matter
+🔗 Blockchain specialist with deep expertise across multiple chains
+☀️ Currently focused on Solana ecosystem development and optimization
+🛠️ Passionate about building high-performance Web3 infrastructure that stands the test of time
+
+From smart contract architecture to robust backend systems, I transform complex challenges into elegant solutions. Let's revolutionize the blockchain space together! 🚀
